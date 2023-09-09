@@ -8,3 +8,8 @@
 }
 
 /* Add style for the class */
+
+.box-two {
+    background-color:blue;
+    border: 3px solid brown;
+}
