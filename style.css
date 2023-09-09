@@ -1,5 +1,9 @@
 /* Add style for the whole webpage */
 
+* {
+    border: rgb(102, 240, 102);
+}
+
 /* Add style for the class */
 
 .box-one {
