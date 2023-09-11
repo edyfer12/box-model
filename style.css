@@ -34,20 +34,58 @@
 
 /*  Stylize third class */
 
-
+.box-three {
+    background-color: green;
+    border: 5px solid red;
+    inline-size: 200px;
+    padding: 50px;
+    block-size: 200px;
+    margin: 150px;
+}
 
 /*  Stylize fourth class */
+
+.box-four {
+    margin:150px;
+    padding: 15px;
+    border: 5px solid gold;
+    inline-size: 170px;
+    block-size: 200px;
+    background-color: silver;
+}
 
 
 
 /*  Stylize fifth class */
 
-
+.box-five {
+    background-color:aquamarine;
+    width:200px;
+    height:200px;
+    border:5px solid grey;
+    padding:75px;
+    margin: 40px;
+}
 
 /*  Stylize sixth class */
 
+.box-six {
+    background-color:black;
+    width:50px;
+    height:50px;
+    border:5px solid red;
+    padding:0px;
+    margin: 10px;
+    color: white;
+}
 
 
 /*  Stylize seventh class */
+
+.box-seven {
+    border:10px solid pink;
+    padding: 15px;
+    width:140px;
+}
 
 
